@@ -1,7 +1,8 @@
 # book-search-engine
 
 - Github URL: https://github.com/DanielCConlon/book-search-engine
-- Heroku URL: https://arcane-mountain-08374.herokuapp.com/
+- Heroku URL: updating heroku deployment
+<!-- https://arcane-mountain-08374.herokuapp.com/ -->
 
 # Goal
 
